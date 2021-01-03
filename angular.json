@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LeagueManager"
+    }
+  },
+  "defaultProject": "LeagueManager",
+  "cli": {
+    "analytics": false
+  }
 }
